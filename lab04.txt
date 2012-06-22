@@ -1,0 +1,15 @@
+question 2
+a.the dictionary, : since it has the ability to map one component to the other or because it a pair of components
+
+question 3
+a.tuples, :tuples because, they can not be modify
+
+
+c.the problem can be solve by concatenating the two tuples of list
+
+question 4
+a.the list
+b.
+
+
+
